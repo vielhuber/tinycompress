@@ -20,4 +20,4 @@ casperjs tinycompress.js C:\path\to\images
 All images are overwritten (by design).
 The path is travered recursively (be careful).
 The script uses the official tinypng web converter which has a limit of 5 MB for each image.
-You do not need an API key.
+You do _not_ need an API key.
