@@ -1,6 +1,6 @@
-# ✨ tinycompress ✨
+# 🐘 tinycompress 🐘
 
-tinycompress is a tiny casperjs script for compressing local images using tinypng.
+tinycompress is a tiny CasperJS script for compressing local images using the official tinypng web uploader.
 
 ## Installation
 
