@@ -4,8 +4,8 @@ tinycompress is a tiny CasperJS script for compressing local images using the of
 
 ## Installation
 
-* Install [phantomjs](http://phantomjs.org/download.html)
-* Install [casperjs](http://docs.casperjs.org/en/latest/installation.html)
+* Install [PhantomJS](http://phantomjs.org/download.html)
+* Install [CasperJS](http://docs.casperjs.org/en/latest/installation.html)
 * Download https://raw.githubusercontent.com/vielhuber/tinycompress/master/tinycompress.js
 * Add folder to your PATH variable
 
