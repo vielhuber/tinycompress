@@ -12,11 +12,12 @@ tinycompress is a tiny CasperJS script for compressing local images using the of
 ## Usage
 
 ```
-casperjs tinycompress C:\path\where\all\images\should\be\compressed
+casperjs tinycompress.js C:\path\to\images
 ```
 
 ## Disclaimer
 
 All images are overwritten (by design).
+The path is travered recursively (be careful).
 The script uses the official tinypng web converter which has a limit of 5 MB for each image.
 You do not need an API key.
